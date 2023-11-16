@@ -81,7 +81,7 @@
     "joi": "^17.11.0",
     "js2xmlparser": "^5.0.0",
     "jsonwebtoken": "^9.0.2",
-    "lint-staged": "^15.0.2",
+    "lint-staged": "^14.0.1",
     "prettier": "^3.0.3",
     "swagger-client": "^3.24.4",
     "tsd": "^0.29.0"
